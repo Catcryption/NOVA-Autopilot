@@ -1,0 +1,2 @@
+C:\Users\CT\NOVA Autopilot\obj\Debug\NOVA_Autopilot.csproj.AssemblyReference.cache
+C:\Users\CT\NOVA Autopilot\obj\Debug\NOVA_Autopilot.csproj.CoreCompileInputs.cache
